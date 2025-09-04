@@ -3,6 +3,7 @@
 </div>
 <div align= "center"> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <a href="https://hits.sh/github.com/K-DaHee/"><img alt="Hits" src="https://hits.sh/github.com/K-DaHee.svg?view=today-total&style=for-the-badge&color=f3b2d8&labelColor=8cb1ff"/></a>
 </div>
 
 <div align= "center">

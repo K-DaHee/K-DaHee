@@ -13,6 +13,7 @@
     </div>
 </div>
 
+<!--
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ GitHub Stats </h2> <div align= "center">   </div> 
 </div>
@@ -20,12 +21,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K-DaHee&show_icons=true&theme=cobalt" />&nbsp;&nbsp;
 </div>
+-->
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Most Used Languege </h2> <div align= "center">   </div> 
 </div>
 <div align= "center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-DaHee&layout=compact&theme=cobalt" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-DaHee&layout=donut&theme=cobalt" />&nbsp;&nbsp;
 </div>
 
 <div align= "center"> 

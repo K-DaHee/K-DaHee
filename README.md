@@ -18,7 +18,7 @@
 
 ## 💖 Contributions
 
-[**BaekjoonHub**](https://github.com/sooking87/BaekjoonHub) <br/>
+[**BaekjoonHub**](https://github.com/BaekjoonHub/BaekjoonHub) <br/>
 [fix: 로컬 캐시 부재 시 발생하는 중복 커밋 문제 해결 (전체 플랫폼 적용) #326](https://github.com/BaekjoonHub/BaekjoonHub/pull/326)
 
 ## 🔗 Contact

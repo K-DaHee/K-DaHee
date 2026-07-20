@@ -1,32 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fa5&height=180&text=DaHee's%20GitHub&animation=&fontColor=ffffff&fontSize=60&width=1000" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=rect&color=004490&height=140&section=header&text=DaHee%20Kim&fontSize=50&fontColor=FFFFFF&fontAlign=20&fontAlignY=48&desc=Backend%20Developer&descSize=18&descColor=FFFFFF&descAlign=82&descAlignY=70)
 
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-<a href="https://hits.sh/github.com/K-DaHee/"><img alt="Hits" src="https://hits.sh/github.com/K-DaHee.svg?view=today-total&style=for-the-badge&color=f3b2d8&labelColor=8cb1ff"/></a>
+## 🛠️ Skills & Tech Stack
+#### ★ Backend
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MYBATIS-B32629?style=for-the-badge">
+#### ★ Database
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+#### ★ Tools & Infrastructure
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
-
-## 🛠️ Tech Stacks
-<div style="margin: 0 auto; text-align: center;">
-    <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-</div>
-
-
-<!--  ## 🏅 Baekjoon Solved Lank
-<a href="https://solved.ac/dhk086512">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhk086512" />
-</a>
--->
 
 ## 💖 Contributions
-[**BaekjoonHub**](https://github.com/BaekjoonHub/BaekjoonHub) <br/>
-[fix: 로컬 캐시 부재 시 발생하는 중복 커밋 문제 해결 (전체 플랫폼 적용) #326](https://github.com/BaekjoonHub/BaekjoonHub/pull/326)
+[BaekjoonHub 중복 커밋 방지 로직 개선 #326](https://github.com/BaekjoonHub/BaekjoonHub/pull/326)
 
-## 🔗 Contact
+
+## 🔗 Links
 [![GitHub Blog](https://img.shields.io/badge/GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://k-dahee.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dahe_e___)
-
----
-
-<a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/K-DaHee"/>
-</a>
